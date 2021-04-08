@@ -49,9 +49,9 @@
 		<?php
 		if (is_front_page()) :?>
 		<section class="carrousel">
-				<div><img src="http://localhost/4w4/wp-content/uploads/2021/353_Infographic_Triangle_R10V2_Branded-01.png"></div>
-				<div><img src="http://localhost/4w4/wp-content/uploads/2021/scrumframework-1.png"></div>
-				<div><img src="http://localhost/4w4/wp-content/uploads/2021/too-many-meetings-in-scrum.jpg"></div>
+				<div><img src="http://e1734174.webdev.cmaisonneuve.qc.ca/4w4/wp-content/uploads/2021/353_Infographic_Triangle_R10V2_Branded-01.png"></div>
+				<div><img src="http://e1734174.webdev.cmaisonneuve.qc.ca/4w4/wp-content/uploads/2021/scrumframework-1.png"></div>
+				<div><img src="http://e1734174.webdev.cmaisonneuve.qc.ca/4w4/wp-content/uploads/2021/too-many-meetings-in-scrum.jpg"></div>
 		</section>
 		<div class="boutton">
 			<nav id="un" class="boutton-clip"><a href="#"></a></nav>
