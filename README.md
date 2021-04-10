@@ -2,8 +2,8 @@
 
 Auteur: Alexandre Vanier
 
-Groupe: 2
+Titre: 4w4
 
-Description: Page d'accueil affichant les méthodes SCRUM et les cours du TIM
+Description: Site dans le cadre du cours web 4w4
 
-Page d'Accueil: https://vanier3w3.github.io/TP1/
+webdev: https://e1734174.webdev.cmaisonneuve.qc.ca/4W4/BlogTest/TP1/
