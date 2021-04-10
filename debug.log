@@ -357,3 +357,66 @@ Stack trace:
 #6 C:\xampp\htdocs\4w4\index.php(17): require('C:\\xampp\\htdocs...')
 #7 {main}
   thrown in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\template-parts\content-cours-article.php on line 22
+[08-Apr-2021 18:53:28 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\4w4\wp-content\themes\theme4w4\front-page.php on line 47
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 34
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 34
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 34
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 34
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 34
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 34
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 34
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 34
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 34
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 34
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Undefined variable $tPropriété in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37
+[10-Apr-2021 02:28:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\4w4\wp-content\themes\theme-4w4\front-page.php on line 37

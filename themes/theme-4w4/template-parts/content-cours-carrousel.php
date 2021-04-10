@@ -10,12 +10,12 @@ global $tPropriete;
 ?>
   
 <article class="slide__conteneur">
-	<div class="slide">
+	<a href="<?php echo get_permalink(); ?>" class="slide">
 		<?php get_the_post_thumbnail('page');?>
 		<div class="slide__info">
 			<p><?php echo $tPropriete['sigle'] . " - " . $tPropriete['typeCours'] . " - " . $tPropriete['nbHeure']; ?></p>
-			<a href="<?php echo get_permalink(); ?>"><?php echo $tPropriete['titrePartiel']; ?></a>
+			<p><?php echo $tPropriete['titrePartiel']; ?></p>
 			<p>Session : <?php echo $tPropriete['session']; ?></p>
 		</div>
-	</div>
+	</a>
 </article>      

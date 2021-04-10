@@ -12,6 +12,8 @@
 		padding-left: 0;
 		background-color: #000;
 		text-align : left;
+		z-index: 99999;
+
 		ul {
 			box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
 			float: left;
@@ -129,10 +131,13 @@ menu tablet
 		}
 
 		li:hover ul{
-			display : block;
-			position:absolute;
+			display : flex;
+			flex-direction: column;
+			justify-content: flex-start;
+			// position:absolute;
 			width : 400px;
-			height : 500px;
+			// height : 500px;
+			animation: anim-sous-menu .5s both;
 		}
 
 	ul {
@@ -140,9 +145,18 @@ menu tablet
 		
 	}	
 	}
+}
 
+@keyframes anim-sous-menu {
+	0%{
+		opacity: 0;
+		transform: translateX(0) translateY(100px);
+	}
 
-
+	100%{
+		opacity: 1;
+		transform: translateX(0) translateY(0);
+	}
 }
 
 .comment-navigation,

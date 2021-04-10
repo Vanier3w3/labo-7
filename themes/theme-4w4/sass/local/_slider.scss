@@ -1,7 +1,6 @@
 .carrousel-2 {
-    display: flex;
-    width: 300vw;
-    height: 20vh;
+    width: 600vw;
+    height: 30vh;
     transition: transform .5s;
     transform: translate(0);
     margin: 0;
@@ -11,13 +10,15 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        width: 100vw;
+        width: 100vw !important;
         .slide {
             width: 60%;
+            height: auto;
             display: flex;
-            flex-direction: row;
             justify-content: space-between;
             align-items: center;
+            font-size: 1.2rem;
+            text-decoration: none;
 
             img {
                 display: block;
@@ -26,28 +27,13 @@
             .slide__info {
                 display: flex;
                 flex-direction: column;
-           
-
-                a {
-                    font-size: 1.2rem;
-                    text-decoration: none;
-                    p {
-                        font-size: .8rem;
-                        right: 0;
-                        left: 0;
-                    }
+                p {
+                    font-size: .8rem;
+                    right: 0;
+                    left: 0;
                 }
             }
 
-        }
-        &:nth-of-type(1){
-            background-color: rgb(41, 170, 80);;
-        }
-        &:nth-of-type(2){
-            background-color: rgb(149, 41, 170);;
-        }
-        &:nth-of-type(3){
-            background-color: rgb(170, 146, 41);;
         }
     }
 }

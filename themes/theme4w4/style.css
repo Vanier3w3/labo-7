@@ -702,6 +702,7 @@ textarea {
   padding-left: 0;
   background-color: #000;
   text-align: left;
+  z-index: 99999;
   /* fin du sub-menu */
 }
 
@@ -805,14 +806,26 @@ menu tablet
   }
   .main-navigation.toggled ul li:hover ul,
   .main-navigation ul li:hover ul {
-    display: block;
-    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
     width: 400px;
-    height: 500px;
+    animation: anim-sous-menu .5s both;
   }
   .main-navigation.toggled ul ul,
   .main-navigation ul ul {
     display: none;
+  }
+}
+
+@keyframes anim-sous-menu {
+  0% {
+    opacity: 0;
+    transform: translateX(0) translateY(100px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0) translateY(0);
   }
 }
 
